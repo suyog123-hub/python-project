@@ -12,7 +12,7 @@ while pin_chance > 0:
         print("1 --> Check your bank balance")
         print("2 --> Withdraw amount")
         print("3 --> Deposit amount")
-        print("4 --> Exit")
+        print("4 --> this is the end")
 
         choose = int(input("Please choose a valid option (1-4): "))
 
